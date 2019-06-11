@@ -11,7 +11,7 @@
         {
             "label": "win_run",
             "type": "shell",
-            "command": "${workspaceFolder}/dx12_clear_framebuffer_demo && ${workspaceFolder}/dx12_color_triangle_demo",
+            "command": "${workspaceFolder}/dx12_textured_quad_demo",
         }
     ]
 }
